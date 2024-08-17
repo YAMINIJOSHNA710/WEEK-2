@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        p{
+            color: #3582c2
+        }
+    </style>
+</head>
+<body>
+    <p>My name is yamini Joshna. I am currently pursuing by B.Tech in Saveetha School of Engineering.</p>
+</body>
+</html>
