@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        table{
+            background-color: black;
+        }
+        .new{
+            background-color: rgb(237, 99, 159);
+        }
+        .one{
+            background-color: rgb(0, 0,255);
+        }
+        .two{
+            background-color: rgb(169, 132, 216);
+        }
+    </style>
+</head>
+<body>
+    <table>
+    <tr class="new">
+        <b>
+        <th>Name</th>
+        <th>Age</th>
+        <th>Year</th>
+        </b>
+    </tr>
+    <tr class="one">
+        <td>yamini</td>
+        <td>21</td>
+        <td>4th year</td>
+    </tr>
+    <tr class="two">
+        <td>nandu</td>
+        <td>21</td>
+        <td>4th year</td>
+    </tr>
+    </table>
+</body>
+</html>
