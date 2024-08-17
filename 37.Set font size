@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h1{
+            font-size: 2rem;
+        }
+        h2{
+            font-size: 2em;
+        }
+        .two{
+            font-size: 1.4rem;
+        }
+        .one{
+            font-size: 1.5em;
+        }
+    </style>
+</head>
+<body>
+    <h1>ANIMALS</h1>
+    <p class="two">In the jungle so many animals are living. Lion is the king of the animals.</p>
+     <h2>Persons</h2>
+     <p class="one">I am Yamini Joshna. I am studying in the B.Tech</p>
+</body>
+</html>
