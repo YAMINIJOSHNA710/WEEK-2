@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>What are the animals?</p>
+    <form action="">
+        <input type="checkbox" id="Tiger" name="animal" value="tiger">
+        <label for="tiger">tiger</label><br>
+        <input type="checkbox" id="monkey" name="animal" value="monkey">
+        <label for="monkey">monkey</label><br>
+        <input type="checkbox" id="giraffe" name="animal" value="giraffe">
+        <label for="Cow">Cow</label><br>
+        <input type="checkbox" id="Lion" name="animal" value="lion">
+        <label for="Lion">Lion</label><br>
+        <input type="submit" value="submit">
+    </form>
+</body>
+</html>
