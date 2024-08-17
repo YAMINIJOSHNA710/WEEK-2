@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        p,one,two{
+            font-family: , Arial, sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <h1>ANIMALS</h1>
+     <p>In the jungle a tiger and lion are living. They both are best friends. They are going to hunt animals combindly.</p>
+     <p class="one">The animals are living happily in the jungle.</p>
+      <p class="two">Lion is the king of the jungle.</p>
+    </body>
+</html>
