@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        table,tr,th,td{
+            border: 2px solid black;
+            padding: 8px;
+            border-collapse: collapse;
+        }
+    </style>
+</head>
+<body>
+    <h1>Students details</h1>
+    <table>
+        <tr>
+            <th>Student_name</th>
+            <th>id</th>
+            <th>year</th>
+        </tr>
+        <tr>
+            <td>yamini</td>
+            <td>12345</td>
+            <td>4th year</td>
+        </tr>
+        <tr>
+            <td>nandu</td>
+            <td>23456</td>
+            <td>4th year</td>
+        </tr>
+    </table>
+</body>
+</html>
