@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Webpage</title>
+</head>
+<body>
+    <h1 style="text-align: center;">
+        Birthday Day
+    </h1>
+    <article>
+        <section>
+            <h3>I will celebrate my birthday on 10th april</h3>
+            </section>
+            <section>
+                <h3>My age is 21 years</h3>
+            </section>
+    </article>
+</body>
+</html>
