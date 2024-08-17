@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        form{
+            text-align: center;
+            background-color: rgb(98, 145, 192);
+            padding: 8px;
+            color:rgb(0, 0, 0);
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+    <form action="">
+        <label for="yamini">Username</label>
+        <input type="text" id="yamini">
+    </form>
+</body>
+</html>
